@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JogoUno.Domain", "JogoUno.Domain\JogoUno.Domain.csproj", "{B5DDA31F-81D2-4D65-AF66-A3F7A1ACF642}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JogoUno.Domain.Tests", "JogoUno.Domain.Tests\JogoUno.Domain.Tests.csproj", "{59983316-A4C3-40FA-B435-BC834BE9DD0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5DDA31F-81D2-4D65-AF66-A3F7A1ACF642}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5DDA31F-81D2-4D65-AF66-A3F7A1ACF642}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5DDA31F-81D2-4D65-AF66-A3F7A1ACF642}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5DDA31F-81D2-4D65-AF66-A3F7A1ACF642}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59983316-A4C3-40FA-B435-BC834BE9DD0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59983316-A4C3-40FA-B435-BC834BE9DD0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59983316-A4C3-40FA-B435-BC834BE9DD0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59983316-A4C3-40FA-B435-BC834BE9DD0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
